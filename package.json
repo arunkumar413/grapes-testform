@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "grapesjs": "^0.14.52",
+    "grapesjs": "^0.14.62",
+    "grapesjs-preset-webpage": "^0.1.11",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"

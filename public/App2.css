@@ -1,0 +1,43 @@
+
+.employeeform{
+  display: grid;
+  grid-template-columns: 50%;
+  font-family: sans-serif;
+  justify-content: center;
+
+}
+
+.employeeform > input{
+  margin: 10px;
+  height: 40px;
+border-top: none;
+border-left: none;
+border-right: none;
+
+
+
+}
+
+.employeeform > button {
+  height: 50px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  width: 200px;
+}
+
+.panel__top {
+  padding: 0;
+  width: 100%;
+  display: flex;
+  position: initial;
+  justify-content: center;
+  justify-content: space-between;
+}
+.panel__basic-actions {
+  position: initial;
+}
